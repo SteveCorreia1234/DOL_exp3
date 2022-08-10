@@ -1,0 +1,6 @@
+When you fetch, git syncs the changes with your
+origin/master. It will not bring it on to your master
+branch, until you merge it.
+•
+Apart from fetch, there is a pull operation that
+performs both the fetch and merge operations at once.
