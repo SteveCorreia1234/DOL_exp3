@@ -1,0 +1,7 @@
+
+Experiment – 3:  To Perform various GIT operations on local and Remote repositories using GIT Cheat-Sheet
+
+Aim: To understand version control using Git and create a GitHub account
+Objectives: Aim of this experiment is that, the students will be able 
+To be aware of different Version Control tools like GIT and GitHub
+To obtain complete knowledge of the “version control system” to effectively track changes augmented with Git and GitHub
