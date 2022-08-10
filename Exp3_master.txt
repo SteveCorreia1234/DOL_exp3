@@ -1,0 +1,4 @@
+Let’s say some other programmer in your team makes
+a commit to the remote branch master, and you need
+to pull those changes down to our local (fetch
+operation).
